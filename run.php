@@ -1,6 +1,6 @@
 <?php
-// github.com/paja-R
-$file = "list2.txt";
+// github.com/pajaar
+$file = "list.txt";
 $savefile = "saved.txt";
 
 $get = file_get_contents($file);
